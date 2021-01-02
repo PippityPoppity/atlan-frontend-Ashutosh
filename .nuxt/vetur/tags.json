@@ -1,0 +1,86 @@
+{
+  "Card": {
+    "description": "Auto imported from components/Card.vue"
+  },
+  "LazyCard": {
+    "description": "Auto imported from components/Card.vue"
+  },
+  "Carousel": {
+    "description": "Auto imported from components/Carousel.vue"
+  },
+  "LazyCarousel": {
+    "description": "Auto imported from components/Carousel.vue"
+  },
+  "Collapsible": {
+    "description": "Auto imported from components/Collapsible.vue"
+  },
+  "LazyCollapsible": {
+    "description": "Auto imported from components/Collapsible.vue"
+  },
+  "Discover": {
+    "description": "Auto imported from components/Discover.vue"
+  },
+  "LazyDiscover": {
+    "description": "Auto imported from components/Discover.vue"
+  },
+  "Fab": {
+    "description": "Auto imported from components/Fab.vue"
+  },
+  "LazyFab": {
+    "description": "Auto imported from components/Fab.vue"
+  },
+  "FacetInputs": {
+    "description": "Auto imported from components/FacetInputs.vue"
+  },
+  "LazyFacetInputs": {
+    "description": "Auto imported from components/FacetInputs.vue"
+  },
+  "FacetPanel": {
+    "description": "Auto imported from components/FacetPanel.vue"
+  },
+  "LazyFacetPanel": {
+    "description": "Auto imported from components/FacetPanel.vue"
+  },
+  "Gallery": {
+    "description": "Auto imported from components/Gallery.vue"
+  },
+  "LazyGallery": {
+    "description": "Auto imported from components/Gallery.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "LazyHero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "Navigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "LazyNavigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "SearchBar": {
+    "description": "Auto imported from components/SearchBar.vue"
+  },
+  "LazySearchBar": {
+    "description": "Auto imported from components/SearchBar.vue"
+  },
+  "Stadiums": {
+    "description": "Auto imported from components/Stadiums.vue"
+  },
+  "LazyStadiums": {
+    "description": "Auto imported from components/Stadiums.vue"
+  },
+  "ThemeSwitcher": {
+    "description": "Auto imported from components/ThemeSwitcher.vue"
+  },
+  "LazyThemeSwitcher": {
+    "description": "Auto imported from components/ThemeSwitcher.vue"
+  },
+  "TopPlayers": {
+    "description": "Auto imported from components/TopPlayers.vue"
+  },
+  "LazyTopPlayers": {
+    "description": "Auto imported from components/TopPlayers.vue"
+  }
+}

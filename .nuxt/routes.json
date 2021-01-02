@@ -1,0 +1,28 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "C:\\\\Users\\\\atiwa\\\\Downloads\\\\Compressed\\\\atlan-frontend-Ashutosh\\\\atlan-frontend-Ashutosh\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "_name": "_3290dd1a"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "C:\\\\Users\\\\atiwa\\\\Downloads\\\\Compressed\\\\atlan-frontend-Ashutosh\\\\atlan-frontend-Ashutosh\\\\pages\\\\search.vue",
+    "chunkName": "pages/search",
+    "_name": "_6a71e886"
+  },
+  {
+    "name": "srch",
+    "path": "/",
+    "component": "C:\\\\Users\\\\atiwa\\\\Downloads\\\\Compressed\\\\atlan-frontend-Ashutosh\\\\atlan-frontend-Ashutosh\\\\pages\\\\search.vue",
+    "_name": "_6a71e886"
+  },
+  {
+    "name": "Error",
+    "path": "*",
+    "component": "C:\\\\Users\\\\atiwa\\\\Downloads\\\\Compressed\\\\atlan-frontend-Ashutosh\\\\atlan-frontend-Ashutosh\\\\pages\\\\404.vue",
+    "_name": "_3290dd1a"
+  }
+]
